@@ -1,0 +1,23 @@
+body{
+    background-image: url(bgbgbg.jpg);
+    background-size: cover;
+    color: rgb(253, 253, 253);
+}
+canvas{
+    height: 500px;
+    border-color: rgb(243, 0, 0);
+    border-style: double;
+    border-radius: 10px;
+    border-width: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.id{
+    background-color: tomato;
+    border-radius: 20px;
+    height: 50px;
+    width: 500px;
+    color: thistle;
+}
+h1{
+    color: thistle;
+}
